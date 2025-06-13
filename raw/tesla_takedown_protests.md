@@ -1,1 +1,0 @@
-[Google Spreadsheet Link](https://docs.google.com/spreadsheets/d/13MOGhdMPc-_lGGdEGkS0QVSayczGG7Z5rlk_LUxdCTk/edit)
