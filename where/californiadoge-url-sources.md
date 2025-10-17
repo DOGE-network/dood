@@ -1,4 +1,4 @@
-# Raw Remote Sources
+# URL Sources
 
 | name | description | owner | link | date |
 |------|-------------|-------|------|-------|
