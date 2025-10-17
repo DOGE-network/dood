@@ -1,0 +1,6 @@
+﻿Year,EmployerType,EmployerName,DepartmentOrSubdivision,Position,ElectedOfficial,Judicial,OtherPositions,MinPositionSalary,MaxPositionSalary,ReportedBaseWage,RegularPay,OvertimePay,LumpSumPay,OtherPay,TotalWages,DefinedBenefitPlanContribution,EmployeesRetirementCostCovered,DeferredCompensationPlan,HealthDentalVision,TotalRetirementAndHealthContribution,PensionFormula,EmployerURL,EmployerPopulation,LastUpdatedDate,EmployerCounty,SpecialDistrictActivities,IncludesUnfundedLiability,SpecialDistrictType
+2016,State Department,Education Audit Appeals Plan,,"C.E.A., Range B",False,False,,79764,181548,,130718,0,0,4931,135649,33338,0,0,3399,36737,2.00% @ 55,https://www.calhr.ca.gov,,07/25/2017,,,,
+2016,State Department,Education Audit Appeals Plan,,"Systems Software Specialist II (Technical), Range A",False,False,,69768,91704,,58933,0,65087,0,124020,0,0,0,0,0,,https://www.calhr.ca.gov,,07/25/2017,,,,
+2016,State Department,Education Audit Appeals Plan,,"Attorney III, Range A",False,False,,101208,129840,,118000,0,0,1189,119189,32189,0,0,18884,51073,2.00% @ 55,https://www.calhr.ca.gov,,07/25/2017,,,,
+2016,State Department,Education Audit Appeals Plan,,"Staff Services Analyst (General), Range B",False,False,,38268,47904,,35972,0,0,0,35972,9599,0,0,7084,16683,2.00% @ 60,https://www.calhr.ca.gov,,07/25/2017,,,,
+

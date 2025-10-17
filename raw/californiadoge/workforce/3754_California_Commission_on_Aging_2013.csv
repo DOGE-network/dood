@@ -1,0 +1,5 @@
+﻿Year,EmployerType,EmployerName,DepartmentOrSubdivision,Position,ElectedOfficial,Judicial,OtherPositions,MinPositionSalary,MaxPositionSalary,ReportedBaseWage,RegularPay,OvertimePay,LumpSumPay,OtherPay,TotalWages,DefinedBenefitPlanContribution,EmployeesRetirementCostCovered,DeferredCompensationPlan,HealthDentalVision,TotalRetirementAndHealthContribution,PensionFormula,EmployerURL,EmployerPopulation,LastUpdatedDate,EmployerCounty,SpecialDistrictActivities,IncludesUnfundedLiability,SpecialDistrictType
+2013,State Department,California Commission on Aging,,Executive Secretary/Commission On Aging,False,False,,79260,88284,,86036,0,0,0,86036,17578,0,0,2363,19940,2.00% @ 55,https://www.calhr.ca.gov,,07/14/2014,,,,
+2013,State Department,California Commission on Aging,,"Associate Governmental Program Analyst, Range A",False,False,,52800,66096,,60079,0,0,0,60079,13160,0,0,12896,26056,2.00% @ 55,https://www.calhr.ca.gov,,07/14/2014,,,,
+2013,State Department,California Commission on Aging,,"Office Technician (Typing), Range A",False,False,,32232,40344,,35593,0,0,0,35593,8032,0,0,12896,20929,2.00% @ 55,https://www.calhr.ca.gov,,07/14/2014,,,,
+

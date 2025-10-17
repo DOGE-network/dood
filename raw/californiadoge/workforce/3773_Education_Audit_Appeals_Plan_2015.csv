@@ -1,0 +1,5 @@
+﻿Year,EmployerType,EmployerName,DepartmentOrSubdivision,Position,ElectedOfficial,Judicial,OtherPositions,MinPositionSalary,MaxPositionSalary,ReportedBaseWage,RegularPay,OvertimePay,LumpSumPay,OtherPay,TotalWages,DefinedBenefitPlanContribution,EmployeesRetirementCostCovered,DeferredCompensationPlan,HealthDentalVision,TotalRetirementAndHealthContribution,PensionFormula,EmployerURL,EmployerPopulation,LastUpdatedDate,EmployerCounty,SpecialDistrictActivities,IncludesUnfundedLiability,SpecialDistrictType
+2015,State Department,Education Audit Appeals Plan,,"C.E.A., Range B",False,False,,77436,172908,,127107,0,0,2405,129512,30947,0,0,3370,34317,2.00% @ 55,https://www.calhr.ca.gov,,08/02/2016,,,,
+2015,State Department,Education Audit Appeals Plan,,"Attorney III, Range A",False,False,,96384,123660,,113045,0,0,1160,114205,30046,0,0,17648,47695,2.00% @ 55,https://www.calhr.ca.gov,,08/02/2016,,,,
+2015,State Department,Education Audit Appeals Plan,,"Associate Governmental Program Analyst, Range A",False,False,,55200,69096,,39664,0,0,0,39664,10620,0,0,15066,25686,2.00% @ 55,https://www.calhr.ca.gov,,08/02/2016,,,,
+

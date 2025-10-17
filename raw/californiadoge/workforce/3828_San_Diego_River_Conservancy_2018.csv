@@ -1,0 +1,5 @@
+﻿Year,EmployerType,EmployerName,DepartmentOrSubdivision,Position,ElectedOfficial,Judicial,OtherPositions,MinPositionSalary,MaxPositionSalary,ReportedBaseWage,RegularPay,OvertimePay,LumpSumPay,OtherPay,TotalWages,DefinedBenefitPlanContribution,EmployeesRetirementCostCovered,DeferredCompensationPlan,HealthDentalVision,TotalRetirementAndHealthContribution,PensionFormula,EmployerURL,EmployerPopulation,LastUpdatedDate,EmployerCounty,SpecialDistrictActivities,IncludesUnfundedLiability,SpecialDistrictType
+2018,State Department,San Diego River Conservancy,,"Executive Officer, San Diego River Conservancy",False,False,,111600,124296,,94002,0,0,0,94002,29920,0,0,20211,50131,2.00% @ 55,https://www.calhr.ca.gov,,08/01/2019,,,True,
+2018,State Department,San Diego River Conservancy,,"Environmental Scientist, Range C",False,False,,67692,84156,,65683,0,0,0,65683,20592,0,0,19994,40586,2.00% @ 55,https://www.calhr.ca.gov,,08/01/2019,,,True,
+2018,State Department,San Diego River Conservancy,,"Staff Services Analyst (General), Range C",False,False,,49632,62148,,51305,1820,0,2015,55140,15431,0,0,15037,30468,2.00% @ 55,https://www.calhr.ca.gov,,08/01/2019,,,True,
+

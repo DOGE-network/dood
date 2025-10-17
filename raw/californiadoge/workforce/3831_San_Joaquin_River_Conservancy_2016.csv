@@ -1,0 +1,5 @@
+﻿Year,EmployerType,EmployerName,DepartmentOrSubdivision,Position,ElectedOfficial,Judicial,OtherPositions,MinPositionSalary,MaxPositionSalary,ReportedBaseWage,RegularPay,OvertimePay,LumpSumPay,OtherPay,TotalWages,DefinedBenefitPlanContribution,EmployeesRetirementCostCovered,DeferredCompensationPlan,HealthDentalVision,TotalRetirementAndHealthContribution,PensionFormula,EmployerURL,EmployerPopulation,LastUpdatedDate,EmployerCounty,SpecialDistrictActivities,IncludesUnfundedLiability,SpecialDistrictType
+2016,State Department,San Joaquin River Conservancy,,"Executive Officer, San Joaquin River Conservancy",False,False,,93828,104520,,101212,0,0,0,101212,25722,0,0,1684,27406,2.00% @ 55,https://www.calhr.ca.gov,,07/25/2017,,,,
+2016,State Department,San Joaquin River Conservancy,,"Associate Governmental Program Analyst, Range A",False,False,,55200,69096,,50208,0,0,0,50208,13416,0,0,9394,22810,2.00% @ 60,https://www.calhr.ca.gov,,07/25/2017,,,,
+2016,State Department,San Joaquin River Conservancy,,"Staff Services Analyst (General), Range C",False,False,,45888,57456,,4188,0,0,0,4188,1119,0,0,10,1130,2.00% @ 55,https://www.calhr.ca.gov,,07/25/2017,,,,
+
