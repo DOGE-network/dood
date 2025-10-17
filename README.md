@@ -1,27 +1,24 @@
-# tables
+# Department Of Open Data (DOOD)
 
 ## overview
-- holds source data for cali-doge and other transparency tools to utilize
-- raw holds spreadsheets and lists from public sources that need to be modified for use
-- sources is where California DOGE and other sites can pull from at build to include for tooling
+- Immutable sources for California DOGE, Data Republican and other sites can pull from at build
+- The long term storage for public sources of data that may become unavailable or be revised
+- The Internet Archive for Public Data
 
-## source file formats
+## repository structure
+directories
+- RAW (file at the URL public source CSV, TSV, XML, JSON, PDF and lists)
+- IMAGES (all images)
+- WHERE (URL of raw sources)
+- PROCESSED (immutable ETL files)
 
-### corporate_entity_metadata.tsv
+file naming standard
+- name of project, e.g. californiadoge, datarepublican, kansasdoge, michigandot
+- dash
+- then whatever
+- the file header determines contents standard
+in the future we can set additional naming options, but not now
 
-	•	EIN: Employer Identification Number (unique tax ID for the entity)
-	•	CorpName: Legal name of the corporation
-	•	IncorpLocation: Jurisdiction where the entity is incorporated (e.g., state, country)
-	•	IncorpDate: Date of incorporation (format: YYYY-MM-DD)
-	•	EntityType: Type of entity (e.g., Corporation, LLC, Partnership)
-	•	Status: Current status (e.g., Active, Inactive, Dissolved)
-	•	BusinessAddress: Primary business address
-	•	MailingAddress: Mailing address (if different from business address)
-	•	RegisteredAgent: Name/contact of registered agent
-	•	Phone: Main contact phone number
-	•	Email: Main contact email address
-	•	Website: Company website URL
-	•	NAICSCode: North American Industry Classification System code (or similar industry code)
-	•	FEIN: Federal Employer Identification Number (if different from EIN or for international entities)
-	•	ParentEntity: Name or ID of parent company (if applicable)
-	•	Notes: Free-text notes or comments
+# Data presented as a **master repository of receipts** or DOOD website
+- website of URLs and raw data sources
+- how to for researchers
