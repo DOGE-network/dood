@@ -1,0 +1,6 @@
+﻿Year,EmployerType,EmployerName,DepartmentOrSubdivision,Position,ElectedOfficial,Judicial,OtherPositions,MinPositionSalary,MaxPositionSalary,ReportedBaseWage,RegularPay,OvertimePay,LumpSumPay,OtherPay,TotalWages,DefinedBenefitPlanContribution,EmployeesRetirementCostCovered,DeferredCompensationPlan,HealthDentalVision,TotalRetirementAndHealthContribution,PensionFormula,EmployerURL,EmployerPopulation,LastUpdatedDate,EmployerCounty,SpecialDistrictActivities,IncludesUnfundedLiability,SpecialDistrictType
+2018,State Department,Education Audit Appeals Plan,,"Attorney IV, Range A",False,False,,122076,156744,,140656,0,0,5781,146437,43388,0,0,20686,64074,2.00% @ 55,https://www.calhr.ca.gov,,08/01/2019,,,True,
+2018,State Department,Education Audit Appeals Plan,,"C.E.A., Range B",False,False,,86280,200148,,133339,0,0,4619,137959,40337,0,0,15965,56301,2.00% @ 55,https://www.calhr.ca.gov,,08/01/2019,,,True,
+2018,State Department,Education Audit Appeals Plan,,"Associate Governmental Program Analyst, Range A",False,False,,59700,74736,,49097,0,0,0,49097,14714,0,0,7516,22230,2.00% @ 60,https://www.calhr.ca.gov,,08/01/2019,,,True,
+2018,State Department,Education Audit Appeals Plan,,"Information Technology Specialist I, Range C",False,False,,74148,99360,,42509,0,0,0,42509,0,0,0,0,0,,https://www.calhr.ca.gov,,08/01/2019,,,True,
+

@@ -1,0 +1,5 @@
+﻿Year,EmployerType,EmployerName,DepartmentOrSubdivision,Position,ElectedOfficial,Judicial,OtherPositions,MinPositionSalary,MaxPositionSalary,ReportedBaseWage,RegularPay,OvertimePay,LumpSumPay,OtherPay,TotalWages,DefinedBenefitPlanContribution,EmployeesRetirementCostCovered,DeferredCompensationPlan,HealthDentalVision,TotalRetirementAndHealthContribution,PensionFormula,EmployerURL,EmployerPopulation,LastUpdatedDate,EmployerCounty,SpecialDistrictActivities,IncludesUnfundedLiability,SpecialDistrictType
+2021,State Department,San Diego River Conservancy,,"Executive Officer, San Diego River Conservancy",False,False,,120768,134508,,112660,0,0,7882,120541,35027,0,0,22761,57788,2.00% @ 55,https://www.calhr.ca.gov,,07/26/2022,,,True,
+2021,State Department,San Diego River Conservancy,,"Environmental Scientist, Range C",False,False,,76500,95112,,73931,0,0,1020,74951,24060,0,0,9917,33977,2.00% @ 55,https://www.calhr.ca.gov,,07/26/2022,,,True,
+2021,State Department,San Diego River Conservancy,,"Associate Governmental Program Analyst, Range A",False,False,,64596,80868,,64395,0,0,3120,67515,19489,0,0,17179,36668,2.00% @ 55,https://www.calhr.ca.gov,,07/26/2022,,,True,
+
